@@ -642,8 +642,11 @@
       flex-wrap: nowrap;
     }
     .icon-flex{
-      width:110%;
-      flex-wrap: inherit;
+     width: 100%;
+    flex-wrap: nowrap;
+    position: relative;
+    bottom: 0;
+    left: 0;
     }
     .text {
       margin: -10px -80px 10px -77px;
