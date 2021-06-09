@@ -223,7 +223,7 @@
         transition: all .2s ease-in-out;
         overflow: hidden;
         position: absolute;
-        bottom: 200px;
+        bottom: 100px;
       }
       .down a{
         text-decoration: none;
