@@ -162,6 +162,7 @@
         }
         nav ul li a{
           font-size: 20px;
+          display: none;
         }
         a:hover,a.active{
           background: none;
@@ -201,7 +202,7 @@
       	font-size: 70px;
       }
       .about{
-      	font-size: 30px;
+          font-size: 30px;
       }
 
       @media (max-width: 700px) {
@@ -511,12 +512,20 @@
          
           }
           @media (min-width: 992px) and (max-width: 1199px) {
+            h1{
+              font-size: 75px;
+            }
+            .about{
+              font-size: 34px;
+              margin-bottom: 79px;
+            }
             footer {
               width: 100%;
               position: relative;
               bottom: 0px;
               left: 0px;
           }
+
       
         }
         @media (min-width: 768px) and (max-width: 991px) {
@@ -642,11 +651,8 @@
       flex-wrap: nowrap;
     }
     .icon-flex{
-     width: 100%;
-    flex-wrap: nowrap;
-    position: relative;
-    bottom: 0;
-    left: 0;
+      width: 110%;
+      flex-wrap: inherit;
     }
     .text {
       margin: -10px -80px 10px -77px;
@@ -666,7 +672,7 @@
       list-style-type: square;
     }
     #profile-link {
-      font-size: 20px;
+      font-size: 25px;
       padding: 17px 4px 1px 23px;
       color: white;
       text-decoration: none;
