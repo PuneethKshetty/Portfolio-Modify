@@ -223,7 +223,7 @@
         transition: all .2s ease-in-out;
         overflow: hidden;
         position: absolute;
-        bottom: 25px;
+        bottom: 220px;
       }
       .down a{
         text-decoration: none;
@@ -526,7 +526,7 @@
               left: 0px;
           }
           .down{
-            bottom: 87px;
+            bottom: 176px;
           }
 
       
@@ -567,7 +567,7 @@
           list-style-type: square;
         }
         .down{
-          bottom: 287px;
+          bottom: 248px;
         }
       }
       @media (max-width: 767px) {
@@ -612,7 +612,7 @@
         list-style-type: square;
       }
       .down{
-        bottom: 25px;
+        bottom: 80px;
       }
     }
     @media (max-width: 479px) {
