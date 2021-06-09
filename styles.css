@@ -188,7 +188,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        height: 110vh;
+        height: 90vh;
         letter-spacing: 1px;
         }
       h1 {
@@ -517,13 +517,16 @@
             }
             .about{
               font-size: 34px;
-              margin-bottom: 79px;
+              margin-bottom: 0;
             }
             footer {
               width: 100%;
               position: relative;
               bottom: 0px;
               left: 0px;
+          }
+          .down{
+            bottom: 87px;
           }
 
       
@@ -562,6 +565,9 @@
           font-family: "Source Sans Pro", sans-serif;
           color: #0bcfe9;
           list-style-type: square;
+        }
+        .down{
+          bottom: 287px;
         }
       }
       @media (max-width: 767px) {
@@ -604,6 +610,9 @@
         font-family: "Source Sans Pro", sans-serif;
         color: #0bcfe9;
         list-style-type: square;
+      }
+      .down{
+        bottom: 25px;
       }
     }
     @media (max-width: 479px) {
