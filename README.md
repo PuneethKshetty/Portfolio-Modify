@@ -1,6 +1,6 @@
 # Hey Amigos ! , I'm Puneeth ( ⌐■_■) 
 
- <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="360"/>
+ <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="400"/>
 
 ### Welcome to my Portfolio-2.0
 
