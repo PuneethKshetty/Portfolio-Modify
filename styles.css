@@ -440,7 +440,7 @@
         border-width: thin;
         margin-top: 20px;
         border: 2px solid white;
-        padding: 10px 0px 10px 0px;
+        padding: 10px 28px 10px 28px;
         transition: all .2s ease-in-out;
       }
       .submit a{
