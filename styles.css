@@ -613,7 +613,7 @@
         list-style-type: square;
       }
       .down{
-        bottom: 48px;
+        bottom: 30px;
       }
     }
     @media (max-width: 479px) {
