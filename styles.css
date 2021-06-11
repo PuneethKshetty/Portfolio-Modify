@@ -17,7 +17,7 @@
         scroll-behavior: smooth;
       }
 
-      /*navbar included*/
+      /*navbar*/
 
       header{
         display: flex;
@@ -188,7 +188,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        height: 100vh;
+        height: 90vh;
         letter-spacing: 1px;
         }
       h1 {
@@ -224,7 +224,7 @@
         transition: all .2s ease-in-out;
         overflow: hidden;
         position: absolute;
-        bottom: 0px;
+        bottom: 100px;
       }
       .down a{
         text-decoration: none;
@@ -414,7 +414,7 @@
         display: flex;
         justify-content: center;
         border-bottom: 2px solid #0bcfe9;
-        background: transparent;
+        background: white;
         margin-bottom: 10px;
         font: 32px , Helvetica, sans-serif;
         height: 30px;
@@ -613,7 +613,7 @@
         list-style-type: square;
       }
       .down{
-        bottom: 50px;
+        bottom: 130px;
       }
     }
     @media (max-width: 479px) {
